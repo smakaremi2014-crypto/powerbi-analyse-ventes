@@ -22,6 +22,10 @@ Objectif : créer un dashboard interactif pour le suivi de la performance commer
 - DAX
 - Excel
 
+Résultats
+- Suivi des KPI commerciaux
+- Analyse des ventes par produit, pays et période
+- Visualisation claire pour un usage décisionnel
 📷 Aperçu du dashboard
 ![Dashboard](dashboard.png)
 
